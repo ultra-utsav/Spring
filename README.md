@@ -1,2 +1,2 @@
 # Spring
-# Project for exploring spring framework
+# Projects for exploring spring framework
